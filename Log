@@ -1,0 +1,79 @@
+16:40:16,572 root INFO Running Urban Planning
+16:40:16,574 __main__ INFO Starting Exection of Project
+16:40:18,347 root INFO Running Urban Planning
+16:40:18,453 watchfiles.main DEBUG 1 change detected: {(<Change.added: 1>, '/Users/ashvinsrivastava/Workspace/self-service-api/Log')}
+16:40:18,690 root INFO Running Urban Planning
+16:40:18,816 watchfiles.main DEBUG 4 changes detected: {(<Change.added: 1>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/__pycache__/main.cpython-39.pyc'), (<Change.added: 1>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/__pycache__'), (<Change.deleted: 3>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/__pycache__/main.cpython-39.pyc.4379087904'), (<Change.added: 1>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/__pycache__/main.cpython-39.pyc.4379087904')}
+16:43:03,46 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/api/routes/v3_1/v3_1.py')}
+16:43:03,579 watchfiles.main DEBUG 2 changes detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/Log'), (<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/api/routes/v3_1/v3_1.py')}
+16:43:04,560 root INFO Running Urban Planning
+16:43:04,625 root INFO Running Urban Planning
+16:43:04,709 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/Log')}
+16:46:03,887 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/main.py')}
+16:46:04,454 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/Log')}
+16:46:05,85 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/main.py')}
+16:46:06,42 root INFO Running Urban Planning
+16:46:20,932 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/main.py')}
+16:46:21,310 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/Log')}
+16:46:51,390 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/main.py')}
+16:47:15,929 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/.vscode/launch.json')}
+16:47:25,311 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/main.py')}
+16:47:26,552 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/main.py')}
+16:53:55,557 root INFO Running Urban Planning
+16:53:55,557 __main__ INFO Starting Exection of Project
+16:53:56,568 root INFO Running Urban Planning
+16:53:56,635 root INFO Running Urban Planning
+16:53:56,732 watchfiles.main DEBUG 4 changes detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/Log'), (<Change.added: 1>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/__pycache__/main.cpython-39.pyc.4388520416'), (<Change.deleted: 3>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/__pycache__/main.cpython-39.pyc.4388520416'), (<Change.added: 1>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/__pycache__/main.cpython-39.pyc')}
+16:55:51,822 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/api/routes/v3_1/admin.py')}
+16:55:52,363 watchfiles.main DEBUG 2 changes detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/Log'), (<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/api/routes/v3_1/admin.py')}
+16:55:53,346 root INFO Running Urban Planning
+16:55:53,412 root INFO Running Urban Planning
+16:55:53,491 watchfiles.main DEBUG 4 changes detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/Log'), (<Change.deleted: 3>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/api/routes/v3_1/__pycache__/admin.cpython-39.pyc.4402035088'), (<Change.added: 1>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/api/routes/v3_1/__pycache__/admin.cpython-39.pyc.4402035088'), (<Change.added: 1>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/api/routes/v3_1/__pycache__/admin.cpython-39.pyc')}
+16:57:23,155 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/services/admin.py')}
+16:57:23,720 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/Log')}
+16:57:24,441 root INFO Running Urban Planning
+16:57:24,508 root INFO Running Urban Planning
+16:57:24,571 watchfiles.main DEBUG 4 changes detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/Log'), (<Change.deleted: 3>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/services/__pycache__/admin.cpython-39.pyc.4353366576'), (<Change.added: 1>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/services/__pycache__/admin.cpython-39.pyc.4353366576'), (<Change.added: 1>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/services/__pycache__/admin.cpython-39.pyc')}
+16:57:29,902 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/services/admin.py')}
+16:57:30,453 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/Log')}
+16:57:31,945 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/services/admin.py')}
+16:57:33,295 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/api/routes/v3_1/admin.py')}
+16:57:55,324 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/api/routes/v3_1/admin.py')}
+16:57:56,405 watchfiles.main DEBUG 3 changes detected: {(<Change.deleted: 3>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/api/routes/v3_1/__pycache__/admin.cpython-39.pyc.4352256400'), (<Change.added: 1>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/api/routes/v3_1/__pycache__/admin.cpython-39.pyc.4352256400'), (<Change.added: 1>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/api/routes/v3_1/__pycache__/admin.cpython-39.pyc')}
+16:58:00,997 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/api/routes/v3_1/admin.py')}
+16:58:02,78 watchfiles.main DEBUG 3 changes detected: {(<Change.deleted: 3>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/api/routes/v3_1/__pycache__/admin.cpython-39.pyc.4379277712'), (<Change.added: 1>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/api/routes/v3_1/__pycache__/admin.cpython-39.pyc.4379277712'), (<Change.added: 1>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/api/routes/v3_1/__pycache__/admin.cpython-39.pyc')}
+16:58:36,717 root INFO Running Urban Planning
+16:58:36,717 __main__ INFO Starting Exection of Project
+16:58:37,745 root INFO Running Urban Planning
+16:58:37,806 root INFO Running Urban Planning
+16:58:37,893 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/Log')}
+16:59:02,993 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/services/admin.py')}
+16:59:03,565 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/Log')}
+16:59:04,192 root INFO Running Urban Planning
+16:59:04,249 root INFO Running Urban Planning
+16:59:04,310 watchfiles.main DEBUG 4 changes detected: {(<Change.added: 1>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/services/__pycache__/admin.cpython-39.pyc'), (<Change.deleted: 3>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/services/__pycache__/admin.cpython-39.pyc.4406934064'), (<Change.added: 1>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/services/__pycache__/admin.cpython-39.pyc.4406934064'), (<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/Log')}
+16:59:06,194 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/services/admin.py')}
+16:59:06,747 watchfiles.main DEBUG 2 changes detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/Log'), (<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/services/admin.py')}
+16:59:07,712 root INFO Running Urban Planning
+16:59:07,766 root INFO Running Urban Planning
+16:59:07,822 watchfiles.main DEBUG 4 changes detected: {(<Change.added: 1>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/services/__pycache__/admin.cpython-39.pyc'), (<Change.deleted: 3>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/services/__pycache__/admin.cpython-39.pyc.4360714800'), (<Change.added: 1>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/services/__pycache__/admin.cpython-39.pyc.4360714800'), (<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/Log')}
+17:00:43,682 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/services/admin.py')}
+17:00:44,241 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/Log')}
+17:00:44,951 root INFO Running Urban Planning
+17:00:45,17 root INFO Running Urban Planning
+17:00:45,96 watchfiles.main DEBUG 4 changes detected: {(<Change.deleted: 3>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/services/__pycache__/admin.cpython-39.pyc.4392434224'), (<Change.added: 1>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/services/__pycache__/admin.cpython-39.pyc.4392434224'), (<Change.added: 1>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/services/__pycache__/admin.cpython-39.pyc'), (<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/Log')}
+17:06:12,751 root INFO Running Urban Planning
+17:06:12,751 __main__ INFO Starting Exection of Project
+17:06:13,769 root INFO Running Urban Planning
+17:06:13,835 root INFO Running Urban Planning
+17:06:13,873 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/Log')}
+17:12:43,793 root INFO Running Urban Planning
+17:12:43,793 __main__ INFO Starting Exection of Project
+17:12:44,815 root INFO Running Urban Planning
+17:12:44,881 root INFO Running Urban Planning
+17:12:44,907 watchfiles.main DEBUG 1 change detected: {(<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/Log')}
+17:15:26,303 root INFO Running Urban Planning
+17:15:26,303 __main__ INFO Starting Exection of Project
+17:15:27,305 root INFO Running Urban Planning
+17:15:27,372 root INFO Running Urban Planning
+17:15:27,481 watchfiles.main DEBUG 4 changes detected: {(<Change.deleted: 3>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/__pycache__/main.cpython-39.pyc.4391191152'), (<Change.added: 1>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/__pycache__/main.cpython-39.pyc'), (<Change.added: 1>, '/Users/ashvinsrivastava/Workspace/self-service-api/app/__pycache__/main.cpython-39.pyc.4391191152'), (<Change.modified: 2>, '/Users/ashvinsrivastava/Workspace/self-service-api/Log')}
